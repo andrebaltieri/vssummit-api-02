@@ -1,0 +1,8 @@
+C:\dev\vssummit-api-02\bin\Debug\netcoreapp1.1\vssummit-api-02.deps.json
+C:\dev\vssummit-api-02\bin\Debug\netcoreapp1.1\vssummit-api-02.runtimeconfig.json
+C:\dev\vssummit-api-02\bin\Debug\netcoreapp1.1\vssummit-api-02.runtimeconfig.dev.json
+C:\dev\vssummit-api-02\bin\Debug\netcoreapp1.1\vssummit-api-02.dll
+C:\dev\vssummit-api-02\bin\Debug\netcoreapp1.1\vssummit-api-02.pdb
+C:\dev\vssummit-api-02\obj\Debug\netcoreapp1.1\vssummit-api-02.AssemblyInfo.cs
+C:\dev\vssummit-api-02\obj\Debug\netcoreapp1.1\vssummit-api-02.dll
+C:\dev\vssummit-api-02\obj\Debug\netcoreapp1.1\vssummit-api-02.pdb
